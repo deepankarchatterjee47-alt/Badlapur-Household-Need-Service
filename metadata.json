@@ -1,0 +1,6 @@
+{
+  "name": "Badlapur Household Need Service",
+  "description": "Doorstep household need services in Badlapur - plumbing, fabrication, furniture, painting, tiles, electrician, and home maid services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
